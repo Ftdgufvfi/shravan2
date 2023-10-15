@@ -1,0 +1,23 @@
+p{
+    margin:0px;
+    color:blue;
+    text-align:center;
+}
+div{
+    background-color: pink;
+    padding:20px;
+    border:20px solid blue;
+    color:slateblue;
+}
+h1{
+    margin-left: 100px;
+    margin-right:380px;
+    background-color: rgb(0, 255, 13);
+}
+h2{
+    border:20px solid rgb(106, 0, 255);
+    background-color: rgb(0, 255, 242);
+    margin-right:140px;
+    padding:10px;
+    color:red
+}
